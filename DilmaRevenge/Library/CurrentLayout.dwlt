@@ -134,6 +134,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1536
     height: 731
   m_MinSize: {x: 907, y: 471}
@@ -141,6 +142,15 @@ MonoBehaviour:
   vertical: 0
   controlID: 88
 --- !u!114 &7
+=======
+    width: 1366
+    height: 635
+  m_MinSize: {x: 917, y: 442}
+  m_MaxSize: {x: 22012, y: 10021}
+  vertical: 0
+  controlID: 10
+--- !u!114 &5
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -183,8 +193,13 @@ MonoBehaviour:
   m_MinSize: {x: 432, y: 471}
   m_MaxSize: {x: 14002, y: 14021}
   vertical: 1
+<<<<<<< HEAD
   controlID: 89
 --- !u!114 &9
+=======
+  controlID: 11
+--- !u!114 &7
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -360,9 +375,15 @@ MonoBehaviour:
     height: 710
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 50e5ffffe4fbffff000000007e260000
+=======
+    m_SelectedIDs: a2270000
+    m_LastClickedID: 10146
+    m_ExpandedIDs: fcf7ffff00000000
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -455,10 +476,15 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/cenario
+=======
+    - Assets/sprite
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/cenario
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\Users\camila\Documents\GitHub\dilmarevenge\DilmaRevenge
@@ -468,6 +494,17 @@ MonoBehaviour:
     m_SelectedIDs: 6c250000
     m_LastClickedID: 9580
     m_ExpandedIDs: 00000000b82400006c25000000ca9a3bffffff7f
+=======
+  - Assets/sprite
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\Lucas Alves\Documents\dilmarevenge\DilmaRevenge
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 9a260000
+    m_LastClickedID: 9882
+    m_ExpandedIDs: 000000003426000000ca9a3bffffff7f
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,7 +532,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b82400006c250000
+=======
+    m_ExpandedIDs: 0000000034260000
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -523,7 +564,11 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: 6425000000000000
+=======
+    m_ExpandedInstanceIDs: 00000000
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -687,9 +732,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 22
     speed: 2
     m_Value: 22
+=======
+    m_Target: 10.324891
+    speed: 2
+    m_Value: 10.324891
+>>>>>>> 25fa8dbd2b4f5d4bda046d073fb6e3f57da6ebb3
   m_Ortho:
     m_Target: 1
     speed: 2
